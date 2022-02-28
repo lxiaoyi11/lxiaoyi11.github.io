@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2022/02/28/Linux%E5%9F%BA%E7%A1%80%E8%AF%BE/"/>
+      <url>/2022/02/28/Linux%E5%9F%BA%E7%A1%80%E8%AF%BE/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">title: &#x27;Linux基础课&#x27;</span><br><span class="line">date: &#x27;2022-2-28 15:35:00&#x27;</span><br><span class="line">description: Linux基础课</span><br></pre></td></tr></table></figure><h1 id="Linux基础课"><a href="#Linux基础课" class="headerlink" title="Linux基础课"></a>Linux基础课</h1><h2 id="1-1常用文件命令管理"><a href="#1-1常用文件命令管理" class="headerlink" title="1.1常用文件命令管理"></a>1.1常用文件命令管理</h2><p>ctrl +c  ： ( 1 ) 杀掉某个程序</p><p>​               ( 2 ) 取消命令，并且换行</p><p>ctrl +u ：清空本行命令</p><p>tab键 ：可以补全命令和文件名</p><p>ls : 列出当前目录下所有文件</p><p>pwd ：显示当前路径</p><p>ls 文件名 -l ：看某一个文件的详细信息</p><p>ls 文件名 -hl ：人性化输出，使得输出的信息让人看起来更加的方便</p><p>ls -a ：显示隐藏文件（当文件名以点开头会被隐藏起来） 会显示当前目录和上层目录</p><p>ls -A ：显示隐藏文件，但不会显示当前目录和上层目录</p><p>.  ：一个点表示当前目录    .. ：表示上层目录</p><p>cd ：进入某个目录   cd.. ：返回上层目录    cd - ：返回上一回呆过的目录</p><p>cp ：复制+粘贴+重命名    例：cp a b -r ：将a文件夹整个复制到b</p><p>mkdir ：创建一个文件夹</p><p>rm XXX ：删除普通文件      rm XXX -r ：删除文件夹</p><p>touch ：创建一个文件</p><p>mv ：剪切+粘贴，还有重命名    mv XXX YYY ：将XXX移动到YYY</p><p>cat ：展示文件内容</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>曼巴精神（Mamba Mentality）</title>
       <link href="/2022/02/27/%E6%9B%BC%E5%B7%B4%E7%B2%BE%E7%A5%9E/"/>
       <url>/2022/02/27/%E6%9B%BC%E5%B7%B4%E7%B2%BE%E7%A5%9E/</url>
       
-        <content type="html"><![CDATA[<h1 id="曼巴精神（Mamba-Mentality）"><a href="#曼巴精神（Mamba-Mentality）" class="headerlink" title="曼巴精神（Mamba Mentality）"></a>曼巴精神（Mamba Mentality）</h1><h2 id="一-成就伟大"><a href="#一-成就伟大" class="headerlink" title="一.成就伟大"></a>一.成就伟大</h2><p>“想要精通某事，就必须对它真正上心；想在某个领域出类拔萃，必须为之痴迷。很对人说他们渴望成就伟大，却不愿为此做出必要牺牲。他们关心的事太多，无论重要与否，都浪费了太多精力，这没什么不好，归根结底，伟大并非常人所能企及。”</p><p>​                                                                                                                                                                                                             ——-科比</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="曼巴精神（Mamba-Mentality）"><a href="#曼巴精神（Mamba-Mentality）" class="headerlink" title="曼巴精神（Mamba Mentality）"></a>曼巴精神（Mamba Mentality）</h1><h2 id="一-成就伟大"><a href="#一-成就伟大" class="headerlink" title="一.成就伟大"></a>一.成就伟大</h2><p>“想要精通某事，就必须对它真正上心；想在某个领域出类拔萃，必须为之痴迷。很对人说他们渴望成就伟大，却不愿为此做出必要牺牲。他们关心的事太多，无论重要与否，都浪费了太多精力，这没什么不好，归根结底，伟大并非常人所能企及。”             ——-科比</p><p>​                                                                                                                                                                                                             </p>]]></content>
       
       
       
